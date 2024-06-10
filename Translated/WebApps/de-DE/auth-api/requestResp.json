@@ -1,0 +1,15 @@
+{
+  "defaultErrorMessage": "Es ist ein Fehler aufgetreten",
+  "accountNotValidated": "Konto ist nicht validiert",
+  "accountIsDeactivated": "Konto ist deaktiviert",
+  "wrongUsernameOrPassword": "Falsche E-Mail-Adresse oder falsches Kennwort. Bitte versuchen Sie es erneut.",
+  "loginTimeout": "Timeout bei Anmeldung",
+  "tfaSecurityCodeWrong": "Zwei-Faktor-Authentifizierungscode ist falsch",
+  "unspecifiedError": "Bei der Anmeldung ist ein nicht angegebener Fehler aufgetreten",
+  "tfaSecurityCodeTimeout": "Timeout bei Code für zwei-Faktor-Authentifizierung",
+  "invalidCaptchaResponseToken": "CAPTCHA-Antwort ist nicht gültig",
+  "alreadyValidatedAccount": "Ihr Konto wurde bereits validiert. Bitte melden Sie sich an.",
+  "invalidClientId": "Die angegebene Client-ID ist ungültig.",
+  "notFoundClientId": "Ihre Client-ID konnte nicht gefunden werden.",
+  "data": "Neue Daten"
+}
