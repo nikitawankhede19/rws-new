@@ -1,0 +1,14 @@
+{
+  "defaultErrorMessage": "Quelque chose s'est mal passé",
+  "accountNotValidated": "Le compte n'est pas validé",
+  "accountIsDeactivated": "Le compte est désactivé",
+  "wrongUsernameOrPassword": "Adresse e-mail ou mot de passe incorrect. Veuillez réessayer.",
+  "loginTimeout": "Expiration du délai de connexion",
+  "tfaSecurityCodeWrong": "Le code d'authentification à deux facteurs est incorrect",
+  "unspecifiedError": "Une erreur non spécifiée s'est produite lors de la connexion",
+  "tfaSecurityCodeTimeout": "Le délai d'attente du code d'authentification à deux facteurs a expiré",
+  "invalidCaptchaResponseToken": "La réponse CAPTCHA n'est pas valide",
+  "alreadyValidatedAccount": "Votre compte est déjà validé. Veuillez vous connecter.",
+  "invalidClientId": "L'ID client fourni n'est pas valide.",
+  "notFoundClientId": "Votre ID client est introuvable."
+}
