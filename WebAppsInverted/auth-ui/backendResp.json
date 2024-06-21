@@ -10,7 +10,7 @@
     "invalidCaptchaResponseToken": "Captcha response is not valid",
     "alreadyValidatedAccount": "Your account is already validated. Please sign in.",
     "invalidClientId": "The provided client ID is invalid.",
-    "notFoundClientId": "Your client ID could not be found.",
+    "notFoundClientId": "Your client ID could not found.",
   "data":"new test json"
   }
   
