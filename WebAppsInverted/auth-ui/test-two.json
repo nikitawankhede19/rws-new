@@ -1,5 +1,8 @@
 {
     "new":"file",
     "test":"json",
-    "new":"folder"
+    "new":"folder",
+  "alreadyValidatedAccount": "Your account is already validated. Please sign in.",
+  "invalidClientId": "The provided client ID is invalid.",
+  "notFoundClientId": "Your client ID could not be found."
 }
