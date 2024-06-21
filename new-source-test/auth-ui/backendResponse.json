@@ -19,6 +19,7 @@
     "permissionsNotAllowedImplicitGrantFlow": "This app requests permission to access your account data. This can only be requested using the authorization code flow. Please inform the developer to use the appropriate flow.",
     "grantAccessNotAllowed": "Grant access is not allowed",
     "new" : "new sample data",
-    "text":"new-test"
+    "text":"new-test",
+"new":"changes"
   }
   
