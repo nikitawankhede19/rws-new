@@ -1,0 +1,21 @@
+{
+  "defaultErrorMessage": "Es ist ein Fehler aufgetreten",
+  "accountNotValidated": "Konto ist nicht validiert",
+  "accountIsDeactivated": "Konto ist deaktiviert",
+  "wrongUsernameOrPassword": "Falsche E-Mail-Adresse oder falsches Kennwort. Bitte versuchen Sie es erneut.",
+  "loginTimeout": "Timeout bei Anmeldung",
+  "tfaSecurityCodeWrong": "Zwei-Faktor-Authentifizierungscode ist falsch",
+  "unspecifiedError": "Bei der Anmeldung ist ein nicht angegebener Fehler aufgetreten",
+  "tfaSecurityCodeTimeout": "Timeout bei Code für zwei-Faktor-Authentifizierung",
+  "invalidCaptchaResponseToken": "CAPTCHA-Antwort ist nicht gültig",
+  "alreadyValidatedAccount": "Ihr Konto wurde bereits validiert. Bitte melden Sie sich an.",
+  "invalidClientId": "Die angegebene Client-ID ist ungültig.",
+  "notFoundClientId": "Ihre Client-ID konnte nicht gefunden werden.",
+  "redirectUriMismatch": "Der angegebene Umleitungs-URI stimmt nicht mit dem Umleitungs-URI überein, der in den Client-ID-Details angegeben ist.",
+  "redirectUriWithoutSsl": "Umleitungs-URI ohne SSL-Verschlüsselung ist für impliziten Fluss nicht zulässig.",
+  "redirectUriInvalid": "Der angegebene Umleitungs-URI ist ungültig.",
+  "trialLicenseFailed": "Testlizenz konnte nicht abgerufen werden.",
+  "requestedScopeExceedsClientScope": "Ungültiger Wert für Geltungsbereich: Berechtigungen, die nicht für diese Client-ID festgelegt sind, können nicht angefordert werden.",
+  "permissionsNotAllowedImplicitGrantFlow": "Diese App fordert die Berechtigung für den Zugriff auf Ihre Kontodaten an. Dies kann nur über den Autorisierungscodefluss angefordert werden. Bitte informieren Sie den Entwickler, dass er den entsprechenden Ablauf verwenden soll.",
+  "grantAccessNotAllowed": "Zugriffsberechtigung ist nicht zulässig"
+}

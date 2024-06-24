@@ -1,0 +1,21 @@
+{
+  "defaultErrorMessage": "Something went wrong",
+  "accountNotValidated": "Account is not validated",
+  "accountIsDeactivated": "Account is deactivated",
+  "wrongUsernameOrPassword": "Incorrect email or password. Please try again.",
+  "loginTimeout": "Login timed out",
+  "tfaSecurityCodeWrong": "Two-factor authentication code is wrong",
+  "unspecifiedError": "An unspecified error occurred while login",
+  "tfaSecurityCodeTimeout": "Code for two-factor authentication timed out",
+  "invalidCaptchaResponseToken": "Captcha response is not valid",
+  "alreadyValidatedAccount": "Your account is already validated. Please sign in.",
+  "invalidClientId": "The provided client ID is invalid.",
+  "notFoundClientId": "Your client ID could not be found.",
+  "redirectUriMismatch": "The provided redirect URI does not match with the redirect URI provided in the client ID details.",
+  "redirectUriWithoutSsl": "Redirect uri without SSL-encryption is not allowed for implicit flow.",
+  "redirectUriInvalid": "The provided redirect URI is invalid.",
+  "trialLicenseFailed": "Failed to obtain a trial license.",
+  "requestedScopeExceedsClientScope": "Invalid value for scope: Cannot request permissions that are not set for this client ID.",
+  "permissionsNotAllowedImplicitGrantFlow": "This app requests permission to access your account data. This can only be requested using the authorization code flow. Please inform the developer to use the appropriate flow.",
+  "grantAccessNotAllowed": "Grant access is not allowed"
+}
