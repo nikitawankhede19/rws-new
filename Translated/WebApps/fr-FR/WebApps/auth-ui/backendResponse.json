@@ -1,0 +1,21 @@
+{
+  "defaultErrorMessage": "Quelque chose s'est mal passé",
+  "accountNotValidated": "Le compte n'est pas validé",
+  "accountIsDeactivated": "Le compte est désactivé",
+  "wrongUsernameOrPassword": "Adresse e-mail ou mot de passe incorrect. Veuillez réessayer.",
+  "loginTimeout": "Expiration du délai de connexion",
+  "tfaSecurityCodeWrong": "Le code d'authentification à deux facteurs est incorrect",
+  "unspecifiedError": "Une erreur non spécifiée s'est produite lors de la connexion",
+  "tfaSecurityCodeTimeout": "Le délai d'attente du code d'authentification à deux facteurs a expiré",
+  "invalidCaptchaResponseToken": "La réponse CAPTCHA n'est pas valide",
+  "alreadyValidatedAccount": "Votre compte est déjà validé. Veuillez vous connecter.",
+  "invalidClientId": "L'ID client fourni n'est pas valide.",
+  "notFoundClientId": "Votre ID client est introuvable.",
+  "redirectUriMismatch": "L'URI de redirection fourni ne correspond pas à l'URI de redirection fourni dans les détails de l'ID client.",
+  "redirectUriWithoutSsl": "La redirection URI sans cryptage SSL n'est pas autorisée pour le flux implicite.",
+  "redirectUriInvalid": "L'URI de redirection fourni n'est pas valide.",
+  "trialLicenseFailed": "Echec de l'obtention d'une licence d'évaluation.",
+  "requestedScopeExceedsClientScope": "Valeur non valide pour la portée : Impossible de demander des autorisations qui ne sont pas définies pour cet ID client.",
+  "permissionsNotAllowedImplicitGrantFlow": "Cette application demande l'autorisation d'accéder aux données de votre compte. Ceci ne peut être demandé qu'à l'aide du flux de code d'autorisation. Veuillez informer le développeur qu'il doit utiliser le flux approprié.",
+  "grantAccessNotAllowed": "L'autorisation d'accès n'est pas autorisée"
+}
